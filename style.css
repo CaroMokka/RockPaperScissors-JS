@@ -29,13 +29,17 @@ body{
     margin-top: 10px;
 }
 .user-choices{
-    background-color: cadetblue;
+    /* background-color: cadetblue; */
     width: 240px;
     height: 80px;
     margin-top: 2rem;
 }
 .user-choices img{
-    background-color: chartreuse;
     width: 80px;
     height: 80px;
+}
+.opt-style{
+
+    background-color: darkblue;
+    border-radius: 25px;
 }
