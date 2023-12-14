@@ -1,0 +1,41 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: monospace;
+    text-align: center;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.score{
+    background-color: brown;
+    font-size: 4rem;
+    margin: 1rem;
+}
+.computer-choice{
+    background-color: aqua;
+    width: 240px;
+    height: 240px;
+    margin-top: 1rem;
+}
+.user-choice{
+    background-color: blueviolet;
+    width: 240px;
+    height: 240px;
+    margin-top: 10px;
+}
+.user-choices{
+    background-color: cadetblue;
+    width: 240px;
+    height: 80px;
+    margin-top: 2rem;
+}
+.user-choices img{
+    background-color: chartreuse;
+    width: 80px;
+    height: 80px;
+}
